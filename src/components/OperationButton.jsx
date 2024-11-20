@@ -1,6 +1,5 @@
 import React, { useContext } from "react";
 import { MyContext } from "../App.js";
-import { handleNumber } from "../utils/functions.js";
 
 const OperationButton = (props) => {
 
